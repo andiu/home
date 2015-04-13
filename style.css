@@ -1,0 +1,23 @@
+html{
+	border-top: 15px solid #460101;
+}
+
+body{
+	background: #840606;
+	margin-left: 10%;
+
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
+
+p{
+	font-family: 'Lobster', serif;
+}
+
+img{
+	max-width: 40%;
+	border-radius: 100%;
+}
